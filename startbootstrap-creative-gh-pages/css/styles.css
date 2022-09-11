@@ -11393,6 +11393,11 @@ hr.divider-light {
   }
 }
 
+.skills-icons {
+  font-size: 50px;
+  gap: 16px;
+}
+
 header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
