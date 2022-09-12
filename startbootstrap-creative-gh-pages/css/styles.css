@@ -11396,7 +11396,24 @@ hr.divider-light {
 .skills-icons {
   font-size: 50px;
   gap: 16px;
-  display: flex;
+  text-align: center;
+  color: #48020b;
+}
+
+.contact-icons {
+  font-size: 36px;
+  gap: 16px;
+  margin-bottom: 16px;
+  margin-top: 16px;
+  color: #48020b;
+}
+
+.divider-contact {
+  height: 0.25rem !important;
+  width: 3.25rem;
+  margin: 1.5rem auto;
+  background-color: #48020b;
+  opacity: 1;
 }
 
 header.masthead {
