@@ -11377,17 +11377,21 @@ hr.divider-light {
 
 .card-product {
   overflow: hidden;
-  height: 120px;
+  height: 100%;
+  width: 100%;
   background: white;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   display: flex;
   align-items: center;
+  flex-direction: column;
 }
 
 .card-product img {
-  height: 100%;
-  width: 120px;
+  height: 50%;
+  width: 100%;
   object-fit: cover;
+  flex-direction: column;
+  opacity: 0.9;
 }
 
 .card-product h2 {
