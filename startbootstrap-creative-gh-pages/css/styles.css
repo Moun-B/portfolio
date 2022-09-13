@@ -11394,15 +11394,15 @@ hr.divider-light {
 }
 
 .skills-icons {
-  font-size: 50px;
+  font-size: 64px;
   gap: 16px;
   text-align: center;
   color: #48020b;
 }
 
 .contact-icons {
-  font-size: 36px;
-  gap: 16px;
+  font-size: 46px;
+  gap: 32px;
   margin-bottom: 24px;
   color: #48020b;
 }
