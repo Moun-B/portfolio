@@ -11382,7 +11382,6 @@ hr.divider-light {
   background-color: #48020b;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   display: flex;
-  align-items: center;
   flex-direction: column;
 }
 
@@ -11404,7 +11403,7 @@ hr.divider-light {
 .card-product p {
   font-size: 12px;
   line-height: 1.4;
-  opacity: .7;
+  opacity: .8;
   margin-bottom: 0;
   margin-top: 8px;
   color: white;
