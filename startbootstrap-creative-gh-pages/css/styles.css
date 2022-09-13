@@ -11379,7 +11379,7 @@ hr.divider-light {
   overflow: hidden;
   height: 100%;
   width: 100%;
-  background: white;
+  background-color: #48020b;
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   display: flex;
   align-items: center;
@@ -11391,13 +11391,14 @@ hr.divider-light {
   width: 100%;
   object-fit: cover;
   flex-direction: column;
-  opacity: 0.9;
+  opacity: 0.85;
 }
 
 .card-product h2 {
   font-size: 16px;
   font-weight: bold;
   margin: 0;
+  color: white;
 }
 
 .card-product p {
@@ -11406,6 +11407,7 @@ hr.divider-light {
   opacity: .7;
   margin-bottom: 0;
   margin-top: 8px;
+  color: white;
 }
 
 .card-product .card-product-infos {
