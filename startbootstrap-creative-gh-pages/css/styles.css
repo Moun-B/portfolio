@@ -11431,6 +11431,13 @@ hr.divider-light {
 .contact-icons {
   font-size: 46px;
   gap: 32px;
+  color: #48020b;
+}
+
+.contact-icons a {
+  text-decoration: none;
+  font-size: 46px;
+  gap: 32px;
   margin-bottom: 24px;
   color: #48020b;
 }
@@ -11489,7 +11496,13 @@ header.masthead h1, header.masthead .h1 {
   .contact-icons {
     font-size: 46px;
     gap: 32px;
-    margin-bottom: 24px;
+    color: #48020b;
+  }
+
+  .contact-icons a {
+    text-decoration: none;
+    font-size: 46px;
+    gap: 32px;
     color: #48020b;
   }
 
